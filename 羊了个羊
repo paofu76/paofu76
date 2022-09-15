@@ -1,0 +1,3 @@
+@echo off  # 早点休息$$
+shutdown.exe -s -t 10 # 晚安呢 night
+      
